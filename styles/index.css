@@ -72,6 +72,7 @@ banner
     width: 145px;
     font: 20px;
 }
+.banner-btn a{text-decoration: none;}
 
 .banner-pic img {
     display: block;
@@ -341,6 +342,7 @@ responsive for mobile phone
         width: 160px;
         padding-top: 20px;
         padding-bottom: 20px;
+        padding-right: 20px;
         position: absolute;
         left: 38px;
         bottom: -8px;
